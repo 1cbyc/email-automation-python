@@ -1,0 +1,8 @@
+click
+python-dotenv
+rich
+Jinja2
+pytest
+google-auth
+google-auth-oauthlib
+requests-oauthlib 
